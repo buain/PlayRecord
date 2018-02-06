@@ -1,0 +1,7 @@
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson4_Abstraction\CSharp_Essential_Lesson4_Interfaces_Task3-\PlayRecord\PlayRecord\bin\Debug\PlayRecord.exe.config
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson4_Abstraction\CSharp_Essential_Lesson4_Interfaces_Task3-\PlayRecord\PlayRecord\bin\Debug\PlayRecord.exe
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson4_Abstraction\CSharp_Essential_Lesson4_Interfaces_Task3-\PlayRecord\PlayRecord\bin\Debug\PlayRecord.pdb
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson4_Abstraction\CSharp_Essential_Lesson4_Interfaces_Task3-\PlayRecord\PlayRecord\obj\Debug\PlayRecord.csprojResolveAssemblyReference.cache
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson4_Abstraction\CSharp_Essential_Lesson4_Interfaces_Task3-\PlayRecord\PlayRecord\obj\Debug\PlayRecord.csproj.CoreCompileInputs.cache
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson4_Abstraction\CSharp_Essential_Lesson4_Interfaces_Task3-\PlayRecord\PlayRecord\obj\Debug\PlayRecord.exe
+D:\.NET\Projects\CSharp\CSharp_Essential\Lesson4_Abstraction\CSharp_Essential_Lesson4_Interfaces_Task3-\PlayRecord\PlayRecord\obj\Debug\PlayRecord.pdb
